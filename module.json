@@ -1,0 +1,29 @@
+{
+    "name": "FilamentTwilioDriver",
+    "alias": "filament-twilio-driver",
+    "description": {
+        "ar": "Twilio Whatsapp Integration For Filament Alerts Sender",
+        "en": "Twilio Whatsapp Integration For Filament Alerts Sender",
+        "gr": "Twilio Whatsapp Integration For Filament Alerts Sender",
+        "sp": "Twilio Whatsapp Integration For Filament Alerts Sender"
+    },
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "TomatoPHP\\FilamentTwilioDriver\\FilamentTwilioDriverServiceProvider"
+    ],
+    "files": [],
+    "title": {
+        "ar": "Filament twilio driver",
+        "en": "Filament twilio driver",
+        "gr": "Filament twilio driver",
+        "sp": "Filament twilio driver"
+    },
+    "color": "#cc1448",
+    "icon": "heroicon-c-users",
+    "placeholder": "https://raw.githubusercontent.com/tomatophp/filament-twilio-driver/master/art/3x1io-tomato-twilio-driver.jpg",
+    "type": "plugin",
+    "version": "v1.0.0",
+    "github" : "https://github.com/tomatophp/filament-twilio-driver",
+    "docs" : "https://github.com/tomatophp/filament-twilio-driver"
+}
