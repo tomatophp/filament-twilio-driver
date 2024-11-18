@@ -7,7 +7,6 @@ use Filament\Panel;
 
 class FilamentTwilioDriverPlugin implements Plugin
 {
-
     public function getId(): string
     {
         return 'filament-twilio-driver';
