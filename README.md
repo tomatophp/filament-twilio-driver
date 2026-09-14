@@ -1,4 +1,4 @@
-![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-twilio-driver/master/art/3x1io-tomato-twilio-driver)
+![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-twilio-driver/master/arts/fadymondy-tomato-twilio-driver.jpg)
 
 # Filament twilio driver
 
@@ -7,6 +7,12 @@
 [![Downloads](https://poser.pugx.org/tomatophp/filament-twilio-driver/d/total.svg)](https://packagist.org/packages/tomatophp/filament-twilio-driver)
 
 Twillio Whatsapp Integration For Filament Alerts Sender
+
+## Version Compatibility
+
+| Plugin | Filament | Laravel     | PHP  |
+|--------|----------|-------------|------|
+| 5.x    | 5.x      | 12.x, 13.x  | 8.2+ |
 
 ## Installation
 
