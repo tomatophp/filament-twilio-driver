@@ -1,4 +1,4 @@
-# v5.0.0
+# v5.1.0
 
 - first working release: `twilio-sms` and `twilio-whatsapp` drivers for `tomatophp/filament-alerts` ^5.0
 - Twilio settings page registered on the settings hub, with a write only auth token

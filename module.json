@@ -23,7 +23,7 @@
     "icon": "bxl-whatsapp",
     "placeholder": "https://raw.githubusercontent.com/tomatophp/filament-twilio-driver/master/arts/fadymondy-tomato-twilio-driver.jpg",
     "type": "plugin",
-    "version": "v5.0.0",
+    "version": "v5.1.0",
     "github": "https://github.com/tomatophp/filament-twilio-driver",
     "docs": "https://github.com/tomatophp/filament-twilio-driver"
 }
